@@ -22,9 +22,6 @@ A fully functional chess game built in **Python** featuring an **AI opponent**, 
 ### Programming Languages
 <img src="https://skillicons.dev/icons?i=python" height="40"/>
 
-### Concepts & Tools
-<img src="https://skillicons.dev/icons?i=oop,algorithms,pygame" height="40"/>
-
 ---
 
 ## 🎮 How to Play
